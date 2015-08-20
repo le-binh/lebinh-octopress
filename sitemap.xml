@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://le-binh.github.io/blog/2015/08/20/how-to-add-ssh-key/</loc>
+    <lastmod>2015-08-20T15:32:26+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://le-binh.github.io/blog/2015/08/20/first-post-using-octopress/</loc>
+    <lastmod>2015-08-20T14:03:29+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://le-binh.github.io/blog/archives/</loc>
+  </url>
+  <url>
+    <loc>http://le-binh.github.io/</loc>
+  </url>
+</urlset>
