@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://le-binh.github.io/atom.xml" rel="self"/>
+  <link href="http://le-binh.github.io/"/>
+  <updated>2015-08-20T15:33:54+07:00</updated>
+  <id>http://le-binh.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How to Add Ssh Key]]></title>
+    <link href="http://le-binh.github.io/blog/2015/08/20/how-to-add-ssh-key/"/>
+    <updated>2015-08-20T15:32:26+07:00</updated>
+    <id>http://le-binh.github.io/blog/2015/08/20/how-to-add-ssh-key</id>
+    <content type="html"><![CDATA[<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='objc'><span class='line'><span class="n">NSLog</span><span class="p">(</span><span class="s">&quot;Google truoc di&quot;</span><span class="p">);</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First Post Using Octopress]]></title>
+    <link href="http://le-binh.github.io/blog/2015/08/20/first-post-using-octopress/"/>
+    <updated>2015-08-20T14:03:29+07:00</updated>
+    <id>http://le-binh.github.io/blog/2015/08/20/first-post-using-octopress</id>
+    <content type="html"><![CDATA[<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='objc'><span class='line'><span class="n">NSLog</span><span class="p">(</span><span class="s">&quot;Hello Octopress&quot;</span><span class="p">);</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+</feed>
